@@ -3,9 +3,6 @@ body { background-color: #f5f5f5; /* Grey color */
     /* align-items: center; */
     text-align: center;
     padding:  110x;
-    .container {
-  width: 80%; /* Adjust to control width of the content */
-  margin: 0 auto; /* Center the container */
 }
 }
 h1{ color:rgb(0, 0, 1);
