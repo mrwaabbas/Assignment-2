@@ -9,6 +9,7 @@ h1{ color:rgb(0, 0, 1);
 }
 p {
 margin: 15px; 
+max-width: 1200px
 }
 .roboto-regular {
     font-family: "Roboto", sans-serif;
